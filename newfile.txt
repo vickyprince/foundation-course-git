@@ -1,1 +1,2 @@
 This is my new text file
+modifying to perform fecth and merge 
