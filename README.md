@@ -5,3 +5,4 @@ hiiiii
 hello
 thirdline
 modified
+conflicting
