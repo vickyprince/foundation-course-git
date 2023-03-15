@@ -6,3 +6,5 @@ hello
 thirdline
 example
 123456
+modified
+conflicting
